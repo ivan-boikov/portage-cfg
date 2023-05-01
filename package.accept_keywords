@@ -1,0 +1,33 @@
+# unstable stuff from Gentoo repo
+mail-mta/proton-mail-bridge ~amd64
+
+media-video/droidcam ~amd64
+
+mail-client/mutt-wizard ~amd64
+
+sys-fs/bees ~amd64
+
+media-sound/spek ~amd64
+
+www-plugins/lightspark ~amd64
+
+# how the hell it's testing now??
+dev-qt/qtstyleplugins ~amd64
+
+
+# GURU stuff
+net-p2p/monero ~amd64
+dev-libs/randomx ~amd64
+dev-libs/supercop ~amd64
+
+app-misc/dragon ~amd64
+
+media-sound/ncpamixer ~amd64
+
+
+# gentoobr
+x11-misc/devour ~amd64
+
+
+# ArchFeh
+>=media-sound/pamixer-9999 **

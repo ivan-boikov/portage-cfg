@@ -1,0 +1,4 @@
+=sys-devel/gcc-12.2.1_p20230428-r1
+=sys-libs/glibc-2.36-r7
+=sys-devel/llvm-15.0.7
+=sys-devel/clang-15.0.7-r1
