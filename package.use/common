@@ -1,0 +1,51 @@
+www-client/firefox eme-free geckodriver hardened hwaccel lto system-av1 system-harfbuzz system-icu system-jpeg system-libevent system-libvpx system-png system-python-libs system-webp pulseaudio
+
+media-video/mpv::vapoursynth archive cdda cli cplugins drm dvb dvd egl gbm iconv lcms libmpv lua opengl rubberband sdl xv zimg vapoursynth pulseaudio
+
+media-video/ffmpeg amr amrenc bs2b cdio chromaprint chromium codec2 cuda encode fdk fontconfig fribidi gcrypt gme gmp gsm gpl iconv -kvazaar ladspa  libaom libass libdrm libsoxr libtesseract lv2 lzma mipsdspr1 mipsdspr2 mipsfpu mmal mp3 modplug nvenc openal opengl openh264 openssl opus oss rubberband svg sdl theora truetype twolame v4l vaapi vdpau vidstab vorbis vidstab vmaf vpx vulkan webp x264 x265 xvid zeromq zimg zlib
+
+media-sound/mpd audiofile cdio cue eventfd faad gme libsamplerate libsoxr mad mikmod mpg123 musepack openmpt oss pulseaudio pipewire signalfd sndfile sndio twolame unicode vorbis wavpack wildmidi
+
+media-sound/ncmpcpp visualizer
+
+media-gfx/imagemagick pango raw truetype wmf xml
+
+media-fonts/fontawesome ttf
+media-fonts/fonts-meta emoji l10n_ru
+
+# LaTeX-related
+dev-tex/biblatex biber
+# for VimTex
+app-text/zathura synctex
+app-text/zathura-meta pdf
+
+mail-client/neomutt sasl lmdb notmuch
+
+sys-apps/firejail contrib chroot dbusproxy globalcfg private-home userns
+
+media-sound/pulseaudio -daemon
+media-video/pipewire pipewire-alsa sound-server jack-sdk lv2
+
+x11-base/xorg-server xcsecurity xnest xephyr
+
+# 'gpg' will pull deps for AD-DC which I don't need
+net-fs/samba client -gpg
+
+sys-apps/net-tools arp
+
+app-emulation/virt-manager gui
+app-emulation/qemu spice pulseaudio usb usbredir
+
+app-emulation/wine-proton pulseaudio
+virtual/wine proton
+
+sys-fs/cryptsetup reencrypt
+
+sys-apps/util-linux suid
+
+sys-libs/zlib minizip
+
+#sys-apps/smartmontools -daemon -caps
+
+# needed for su
+sys-apps/util-linux pam

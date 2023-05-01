@@ -24,6 +24,8 @@ app-misc/dragon ~amd64
 
 media-sound/ncpamixer ~amd64
 
+games-emulation/citra ~amd64 **
+
 
 # gentoobr
 x11-misc/devour ~amd64
