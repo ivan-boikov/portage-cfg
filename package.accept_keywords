@@ -33,3 +33,6 @@ x11-misc/devour ~amd64
 
 # ArchFeh
 >=media-sound/pamixer-9999 **
+
+# fem
+app-admin/pass-git-helper ~amd64
