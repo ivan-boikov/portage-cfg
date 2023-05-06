@@ -5,9 +5,8 @@ sys-apps/systemd
 # 6.0 and upwards requires soystemd
 >=www-misc/profile-sync-daemon-6.0
 
-# freezing critical packages
-# less unexpected problems + avoiding distcc failures
-# allowed versions are unmasked in package.unmask
+# avoiding distcc failures + unneeded recompilation
+sys-devel/binutils
 sys-devel/gcc
 sys-libs/glibc
 sys-devel/llvm
