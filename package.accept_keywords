@@ -14,6 +14,8 @@ www-plugins/lightspark ~amd64
 # how the hell it's testing now??
 dev-qt/qtstyleplugins ~amd64
 
+games-util/lutris ~amd64
+
 
 # GURU stuff
 net-p2p/monero ~amd64
