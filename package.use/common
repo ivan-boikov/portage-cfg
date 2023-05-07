@@ -49,3 +49,6 @@ sys-libs/zlib minizip
 
 # needed for su
 sys-apps/util-linux pam
+
+# required because of opengl flag
+dev-python/PyQt5 gui widgets

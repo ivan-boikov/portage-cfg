@@ -16,6 +16,11 @@ dev-qt/qtstyleplugins ~amd64
 
 games-util/lutris ~amd64
 
+app-emulation/wine-staging ~amd64
+
+media-video/mpv::vapoursynth ~amd64
+media-libs/vapoursynth ~amd64
+
 
 # GURU stuff
 net-p2p/monero ~amd64
