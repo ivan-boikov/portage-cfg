@@ -1,28 +1,24 @@
 # unstable stuff from Gentoo repo
+# last check: 2023-08-19
 mail-mta/proton-mail-bridge ~amd64
-
 media-video/droidcam ~amd64
-
-mail-client/mutt-wizard ~amd64
-
-sys-fs/bees ~amd64
-
 media-sound/spek ~amd64
-
 www-plugins/lightspark ~amd64
+sys-boot/mokutil ~amd64
+games-util/joystick ~amd64
+sys-fs/archivemount ~amd64
+sys-fs/jmtpfs ~amd64
+# stable oath-toolkit requires old versions of dev-libs/xmlsec, which is annoying for updates
+sys-auth/oath-toolkit ~amd64
 
-# how the hell it's testing now??
-dev-qt/qtstyleplugins ~amd64
-
-games-util/lutris ~amd64
-
-app-emulation/wine-staging ~amd64
+app-emulation/wine-proton ~amd64
+games-action/multimc-bin ~amd64
 
 media-video/mpv::vapoursynth ~amd64
 media-libs/vapoursynth ~amd64
 
 
-# GURU stuff
+# GURU
 net-p2p/monero ~amd64
 dev-libs/randomx ~amd64
 dev-libs/supercop ~amd64
@@ -41,5 +37,10 @@ x11-misc/devour ~amd64
 # ArchFeh
 >=media-sound/pamixer-9999 **
 
+
 # fem
 app-admin/pass-git-helper ~amd64
+
+
+# ace
+games-util/mangohud ~amd64
