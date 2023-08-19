@@ -17,6 +17,9 @@ games-action/multimc-bin ~amd64
 media-video/mpv::vapoursynth ~amd64
 media-libs/vapoursynth ~amd64
 
+# laptop stuff
+x11-apps/igt-gpu-tools ~amd64
+
 
 # GURU
 net-p2p/monero ~amd64
