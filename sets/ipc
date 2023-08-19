@@ -1,0 +1,8 @@
+@icommon
+
+games-action/multimc-bin
+
+app-emulation/dxvk
+app-emulation/vkd3d-proton
+dev-util/vulkan-tools
+games-util/mangohud::ace
