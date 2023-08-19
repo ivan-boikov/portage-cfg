@@ -5,3 +5,4 @@ x11-apps/igt-gpu-tools
 sys-firmware/intel-microcode
 net-vpn/networkmanager-openvpn
 x11-drivers/xf86-video-intel
+media-libs/libva-intel-driver
