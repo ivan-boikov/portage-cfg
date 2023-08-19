@@ -10,4 +10,5 @@ sys-devel/binutils
 sys-devel/gcc
 sys-libs/glibc
 sys-devel/llvm
+sys-devel/llvmgold
 sys-devel/clang
