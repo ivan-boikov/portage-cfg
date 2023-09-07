@@ -21,6 +21,7 @@ app-admin/pass
 app-admin/pass-git-helper
 app-admin/pass-otp
 app-backup/borgbackup
+app-backup/snapper
 app-crypt/pinentry
 app-emulation/qemu
 app-emulation/virt-manager
@@ -80,6 +81,7 @@ sys-apps/smartmontools
 sys-block/gparted
 sys-fs/archivemount
 sys-fs/bees
+sys-fs/btrfsmaintenance
 sys-fs/compsize
 sys-fs/exfatprogs
 sys-fs/jmtpfs
