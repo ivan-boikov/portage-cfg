@@ -12,3 +12,6 @@ sys-libs/glibc
 sys-devel/llvm
 sys-devel/llvmgold
 sys-devel/clang
+
+# until https://github.com/4re/vapoursynth-portage/issues/130 is fixed
+>=media-libs/libplacebo-6
