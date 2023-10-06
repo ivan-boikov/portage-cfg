@@ -17,6 +17,8 @@ games-action/multimc-bin ~amd64
 media-video/mpv::vapoursynth ~amd64
 media-libs/vapoursynth ~amd64
 
+www-apps/hugo ~amd64
+
 # laptop stuff
 x11-apps/igt-gpu-tools ~amd64
 
@@ -28,7 +30,7 @@ dev-libs/supercop ~amd64
 
 app-misc/dragon ~amd64
 
-media-sound/ncpamixer ~amd64
+>=media-sound/ncpamixer-9999 ~amd64 **
 
 games-emulation/citra ~amd64 **
 
