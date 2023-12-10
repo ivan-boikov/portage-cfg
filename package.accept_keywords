@@ -19,6 +19,11 @@ media-libs/vapoursynth ~amd64
 
 www-apps/hugo ~amd64
 
+sys-fs/fragview ~amd64
+
+# remote control of players
+mpv-plugin/mpv-mpris ~amd64
+
 # laptop stuff
 x11-apps/igt-gpu-tools ~amd64
 

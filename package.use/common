@@ -1,3 +1,6 @@
+app-alternatives/sh dash -bash
+app-shells/dash static
+
 # fuck DRM
 www-client/firefox-bin -gmp-autoupdate
 
@@ -29,3 +32,7 @@ virtual/wine proton
 sys-libs/zlib minizip
 
 dev-python/PyQt5 -opengl
+
+app-misc/nnn gitstatus
+
+app-text/texlive -cjk l10n_fr

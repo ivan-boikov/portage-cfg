@@ -4,17 +4,14 @@
 app-text/texlive
 dev-tex/biblatex
 dev-tex/latexmk
-dev-texlive/texlive-fontsextra
-dev-texlive/texlive-langfrench
+dev-tex/glossaries
 
 # email
+mail-client/mutt
+mail-mta/opensmtpd
 app-misc/abook
-mail-client/mutt-wizard
-mail-client/neomutt
-mail-mta/msmtp
-mail-mta/proton-mail-bridge
 net-mail/isync
-www-client/lynx
+www-client/w3m
 
 # others
 app-admin/pass
@@ -48,7 +45,6 @@ media-gfx/imagemagick
 media-gfx/inkscape
 media-gfx/maim
 media-gfx/sxiv
-media-sound/beets
 media-sound/mpc
 media-sound/mpd
 media-sound/ncmpcpp
@@ -64,7 +60,9 @@ media-video/ffmpeg
 media-video/libva-utils
 media-video/mediainfo
 media-video/mpv::vapoursynth
+mpv-plugin/mpv-pris
 media-video/pipewire
+net-analyzer/iftop
 net-fs/curlftpfs
 net-fs/samba
 net-ftp/lftp
@@ -86,6 +84,7 @@ sys-fs/compsize
 sys-fs/exfatprogs
 sys-fs/jmtpfs
 sys-fs/simple-mtpfs
+sys-fs/fragview
 sys-power/cpupower
 virtual/jre
 virtual/wine

@@ -1,0 +1,7 @@
+dev-qt/qtdeclarative
+dev-qt/qtconcurrent
+dev-qt/qtsvg
+media-libs/vapoursynth
+media-video/mediainfo
+sys-process/lsof
+media-video/mpv::vapoursynth

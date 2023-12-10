@@ -12,3 +12,9 @@ sys-libs/glibc
 sys-devel/llvm
 sys-devel/llvmgold
 sys-devel/clang
+
+# kinda forgot why
+#>=dev-libs/openssl-3.0.10
+
+# for SVP
+>=dev-qt/qtdeclarative-6.0
