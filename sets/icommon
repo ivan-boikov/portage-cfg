@@ -60,7 +60,7 @@ media-video/ffmpeg
 media-video/libva-utils
 media-video/mediainfo
 media-video/mpv::vapoursynth
-mpv-plugin/mpv-pris
+mpv-plugin/mpv-mpris
 media-video/pipewire
 net-analyzer/iftop
 net-fs/curlftpfs
